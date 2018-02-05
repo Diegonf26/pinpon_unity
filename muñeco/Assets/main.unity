@@ -339,6 +339,10 @@ Prefab:
       propertyPath: m_LocalPosition.z
       value: 2.2681
       objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: 0dec99abc5f7abf439e86d8cb8c008f2, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: f1acb913b455d5940a53cf0b84c52e89, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 0dec99abc5f7abf439e86d8cb8c008f2, type: 3}
   m_IsPrefabParent: 0
@@ -382,8 +386,8 @@ Camera:
   m_GameObject: {fileID: 2032186585}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_ClearFlags: 2
+  m_BackGroundColor: {r: 0.2906033, g: 0.3729603, b: 0.9191176, a: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
